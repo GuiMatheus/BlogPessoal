@@ -2,8 +2,6 @@ package com.BlogTeste.model;
 
 
 
-
-
 public class UsuarioLogin
 {
 	private Long id;
